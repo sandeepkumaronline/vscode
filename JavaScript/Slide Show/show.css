@@ -1,0 +1,27 @@
+button{
+    width: 378;
+    height: 378;
+    background: blue;
+  }
+  
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    align-self: center;
+}
+
+input {
+    display: block;
+}
+  
+p{
+    color: red;
+}

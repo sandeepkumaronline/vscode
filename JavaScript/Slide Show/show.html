@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Slide Show</title>
+    <link rel="stylesheet" type="text/css" href="show.css">
+</head>
+
+<body>
+    <h1>My Slide Show</h1>
+    <button id="prev">
+        <</button> <img id="image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1259621/city.jpg">
+            <button id="next">></button>
+            <br></br>
+            <form action="" onsubmit="return verify()" method="POST">
+                <input id="username" name="username" type="text">Enter your name</input>
+                <p id="validationMessage" hidden>Number must be between 40-90</p>
+                <p id="nanMessage" hidden>Please enter a numeric value</p>
+                <input id="number" name="number" type="text">Enter a number between 40-90</input>
+                <input type="submit"></input>
+            </form>
+            <script src="D:\EngineYard\VSCode\jquery.js"></script>
+            <script src="show.js"></script>
+        </body>
+
+</html>
