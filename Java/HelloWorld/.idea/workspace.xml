@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e95aabd-cc04-4f33-8d84-40f794c91fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Crypto/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Crypto/src/Crypto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OddsAndEvens/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OddsAndEvens/src/OddsAndEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TripPlanner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TripPlanner/src/TripPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LearningJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/myFirstJavaClass.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShipGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShipGame/src/BattleShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShipGame/src/BattleShipGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crypto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/Fraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/src/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fraction/src/FractionCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crypto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crypto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,44 +31,31 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HelloWorld$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1543965790034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2139737744">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1176" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/src/NumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="51">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,14 +86,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Number.java" />
+        <option value="$PROJECT_DIR$/src/NumberTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1489" />
-    <option name="y" value="46" />
-    <option name="width" value="1520" />
-    <option name="height" value="1964" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3828" />
+    <option name="y" value="-12" />
+    <option name="width" value="3864" />
+    <option name="height" value="2184" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +122,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,34 +171,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="993" y="31" width="1013" height="1309" extended-state="0" />
+    <frame x="3833" y="-7" width="2575" height="1455" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33053514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1280318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4921301" weight="0.34863946" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.63378805" weight="0.39795917" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.716501" weight="0.41421014" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6331237" weight="0.39728352" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5141658" side_tool="true" visible="true" weight="0.32142857" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.4858342" visible="true" weight="0.32142857" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.283499" side_tool="true" visible="true" weight="0.41421014" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4769392" weight="0.32088286" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24977458" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.32962227" />
+      <window_info anchor="right" id="Maven" order="6" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../TripPlanner/TripPlanner.iml">
@@ -211,13 +204,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>
