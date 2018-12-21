@@ -1,0 +1,11 @@
+D:\EngineYard\VSCode\dotnetCore\bin\Debug\netcoreapp2.1\dotnetCore.deps.json
+D:\EngineYard\VSCode\dotnetCore\bin\Debug\netcoreapp2.1\dotnetCore.runtimeconfig.json
+D:\EngineYard\VSCode\dotnetCore\bin\Debug\netcoreapp2.1\dotnetCore.runtimeconfig.dev.json
+D:\EngineYard\VSCode\dotnetCore\bin\Debug\netcoreapp2.1\dotnetCore.dll
+D:\EngineYard\VSCode\dotnetCore\bin\Debug\netcoreapp2.1\dotnetCore.pdb
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.csprojAssemblyReference.cache
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.csproj.CoreCompileInputs.cache
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.AssemblyInfoInputs.cache
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.AssemblyInfo.cs
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.dll
+D:\EngineYard\VSCode\dotnetCore\obj\Debug\netcoreapp2.1\dotnetCore.pdb
